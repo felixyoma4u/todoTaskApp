@@ -1,4 +1,4 @@
-package com.example.todocompose
+package com.example.todocompose.data.models
 
 import androidx.room.Database
 import androidx.room.RoomDatabase

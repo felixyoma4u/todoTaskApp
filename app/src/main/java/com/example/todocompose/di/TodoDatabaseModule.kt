@@ -1,7 +1,8 @@
-package com.example.todocompose
+package com.example.todocompose.di
 
 import android.content.Context
 import androidx.room.Room
+import com.example.todocompose.data.models.TodoTaskDatabase
 import com.example.todocompose.utils.Constants.DATABASE_NAME
 import dagger.Module
 import dagger.Provides
